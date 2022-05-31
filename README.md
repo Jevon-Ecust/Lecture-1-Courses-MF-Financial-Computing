@@ -1,1 +1,1 @@
-# Lecture 1 MF-Financial-Computing: Python
+# Lecture 1 MF-Course-Financial-Computing: Python
